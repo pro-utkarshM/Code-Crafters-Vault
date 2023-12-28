@@ -1,4 +1,6 @@
 # Resources
+Hi Everyone !!!!
+i hope these resources would be useful for you..
 
 ## General
 - [ ] [Ivy-Octernships-ML](https://github.com/GitHub-Octernships/Ivy-Octernships-ML) <br>
