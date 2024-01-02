@@ -1,4 +1,6 @@
 # Resources
+Hi Everyone !!!!
+i hope these resources would be useful for you..
 
 ## General
 - [ ] [Ivy-Octernships-ML](https://github.com/GitHub-Octernships/Ivy-Octernships-ML) <br>
@@ -26,6 +28,7 @@
 ## Android Development
 - [ ] [Kotlin Udemy](https://github.com/hussien89aa/KotlinUdemy) <be>
 - [ ] [Moko-resources](https://github.com/icerockdev/moko-resources) <be>
+ 
 
 ## Web
 - [ ] [Web Development Resources](https://github.com/markodenic/web-development-resources) <be>
