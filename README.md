@@ -1,12 +1,42 @@
-# Comprehensive Technical Resources Repository
-# All resources have been provided in the next file
+# Code-Crafters-Vault
 
-[Android Development](https://github.com/pro-utkarshM/Code-Crafters-Vault/blob/main/Android.md)<br>
-[AI-ML](https://github.com/pro-utkarshM/Code-Crafters-Vault/blob/main/ai-ml.md)<br>
-[WEB](https://github.com/pro-utkarshM/Code-Crafters-Vault/blob/main/Web.md).<br>
-[Cyber Security](https://github.com/pro-utkarshM/Code-Crafters-Vault/blob/main/cyber%20security.md)<br>
-[Kernel Developement](https://github.com/pro-utkarshM/Code-Crafters-Vault/blob/main/kernel%20development.md)<br>
-[Programming Languages](https://github.com/pro-utkarshM/Code-Crafters-Vault/blob/main/languages.md)<br>
-[CPU Developmet](https://github.com/pro-utkarshM/Code-Crafters-Vault/blob/main/cpus.md)<br>
-[Hardware Development](https://github.com/pro-utkarshM/Code-Crafters-Vault/blob/main/hardware%20development.md)<br>
-[TOOL AND UTILITIES](https://github.com/pro-utkarshM/Code-Crafters-Vault/blob/main/tools%20and%20utilities.md)<br>
+## Comprehensive Technical Resources Repository
+
+Welcome to **Code-Crafters-Vault** — a centralized collection of curated resources across various domains of technology.  
+All resources are categorized into folders for easy navigation and scalability.
+
+---
+
+## Available Resources
+
+- [ Android Development](./Android/Android.md)
+- [ AI & Machine Learning](./AI-ML/ai-ml.md)
+- [ Web Development](./Web/Web.md)
+- [ Cyber Security](./Cyber-Security/cyber-security.md)
+- [ Kernel Development](./Kernel-Development/kernel-development.md)
+- [ Programming Languages](./Programming-Languages/languages.md)
+- [ Java Programming](./Programming-Languages/Java.md)
+- [ CPU Development](./CPU-Development/cpus.md)
+- [ Hardware Development](./Hardware-Development/hardware-development.md)
+- [ Tools and Utilities](./Tools-and-Utilities/tools-and-utilities.md)
+- [ General Resources](./Resources/Resources.md)
+
+---
+
+## About
+
+This repository serves as a **one-stop reference** for developers, engineers, and learners aiming to dive deep into multiple areas of technology.  
+Each section contains well-organized tutorials, notes, important links, and recommended learning paths.
+
+Feel free to explore, learn, and contribute!
+
+---
+
+# Contribution
+
+Have a great resource to share or found an improvement?  
+**Pull Requests are welcome!**
+
+---
+
+---
